@@ -1,0 +1,1 @@
+DEMO make send massage for everyone
